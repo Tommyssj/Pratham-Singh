@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratham Singh
 - 👀 I’m interested in Games and coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on development projects
 - 📫 mail me pratham.singh2001@outlook.com
 
